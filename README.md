@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Hunter Knott 
 
 <!--
 **HunterKnott/HunterKnott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😄 About Me:
+I am a senior Computer Science at Utah Valley University. I'm passionate about databases, machine learning, and building solutions.
+
+🔭 What I'm Up To:
+- Building a facial and somatic recognition application in Python that utilizes a drone camera
+- Exploring software design patterns in Java and C#
