@@ -42,6 +42,13 @@ Developer Tools:
 ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255?style=for-the-badge&logo=Eclipse%20IDE)
 ![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=Amazon%20AWS)
+![Wordpress](https://img.shields.io/badge/Wordpress-%2321759B?style=for-the-badge&logo=Wordpress)
 ![Docker](https://img.shields.io/badge/Docker-%23c3d0de?style=for-the-badge&logo=Docker)
 
 Databases:
+![MySQL](https://img.shields.io/badge/MySQL-%23cf9a55?style=for-the-badge&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/MongoDB-%232d274f?style=for-the-badge&logo=MongoDB)
+![Redis](https://img.shields.io/badge/Redis-%23d4a3a1?style=for-the-badge&logo=Redis)
+![Cassandra](https://img.shields.io/badge/Cassandra-%23b0d4d9?style=for-the-badge&logo=apache%20cassandra)
+![Neo4J](https://img.shields.io/badge/Neo4J-%23234a1b?style=for-the-badge&logo=Neo4J)
