@@ -22,7 +22,7 @@ I am a senior Computer Science at Utah Valley University. I'm passionate about d
 - Building a facial and somatic recognition application in Python that utilizes a drone camera
 - Exploring software design patterns in Java and C#
 
-  Check out my [coding portfolio!] (https://hunterknott.github.io/portfolio)
+  Check out my [coding portfolio!](https://hunterknott.github.io/portfolio)
 
 ## 💻 Tech Stack:
 Languages:
