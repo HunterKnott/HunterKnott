@@ -39,6 +39,7 @@ DevOps:
 
 General Programming:
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle)
+![Kotlin](https://img.shields.io/badge/Kotlin-e39f40?style=for-the-badge&logo=Kotlin)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B)
 ![C#](https://img.shields.io/badge/C%23-%238f42d4?style=for-the-badge&logo=C%23)
 
