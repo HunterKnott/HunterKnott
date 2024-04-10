@@ -33,6 +33,9 @@ DevOps:
 ![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=Amazon%20AWS)
 ![Docker](https://img.shields.io/badge/Docker-%23c3d0de?style=for-the-badge&logo=Docker)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello)
+![Linear](https://img.shields.io/badge/Linear-1f1f26?style=for-the-badge&logo=Linear)
 
 General Programming:
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle)
