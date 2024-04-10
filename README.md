@@ -25,7 +25,7 @@ I am a senior Computer Science major at Utah Valley University. I'm passionate a
   Check out my [coding portfolio!](https://hunterknott.github.io/portfolio)
 
 ## 💻 Tech Stack:
-DevOps:
+# DevOps:
 ![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code)
 ![Eclipse](https://img.shields.io/badge/Jupyter-787d79?style=for-the-badge&logo=Jupyter)
@@ -37,26 +37,26 @@ DevOps:
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello)
 ![Linear](https://img.shields.io/badge/Linear-1f1f26?style=for-the-badge&logo=Linear)
 
-General Programming:
+# General Programming:
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle)
 ![Kotlin](https://img.shields.io/badge/Kotlin-e39f40?style=for-the-badge&logo=Kotlin)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B)
 ![C#](https://img.shields.io/badge/C%23-%238f42d4?style=for-the-badge&logo=C%23)
 
-Backend Development:
+# Backend Development:
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 ![DJango](https://img.shields.io/badge/DJango-092E20?style=for-the-badge&logo=DJango)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch)
 ![Supabase](https://img.shields.io/badge/Supabase-2a2e2a?style=for-the-badge&logo=Supabase)
 
-Data Science:
+# Data Science:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-e0d5c5?style=for-the-badge&logo=TensorFlow)
 ![R](https://img.shields.io/badge/R-%232c507d?style=for-the-badge&logo=R)
 ![Matlab](https://img.shields.io/badge/Matlab-%23d9703f?style=for-the-badge&logo=matrix)
 
-Databases:
+# Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-%23cf9a55?style=for-the-badge&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%232d274f?style=for-the-badge&logo=MongoDB)
@@ -65,7 +65,7 @@ Databases:
 ![Neo4J](https://img.shields.io/badge/Neo4J-%23234a1b?style=for-the-badge&logo=Neo4J)
 ![Hadoop](https://img.shields.io/badge/Hadoop-8c8927?style=for-the-badge&logo=Apache%20Hadoop)
 
-Frontend Development:
+# Frontend Development:
 ![HTML](https://img.shields.io/badge/HTML-%23b8761f?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-%2362a7f0?style=for-the-badge&logo=CSS3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-d3c5e0?style=for-the-badge&logo=Bootstrap)
