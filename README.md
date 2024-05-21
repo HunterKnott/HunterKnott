@@ -16,15 +16,23 @@ Here are some ideas to get you started:
 -->
 
 # 😄 About Me:
-I am a senior Computer Science major at Utah Valley University. I'm passionate about databases, machine learning, and building solutions.
+I'm a Data Engineering Intern at Flex International, currently finishing up my Computer Science degree at Utah Valley University.
+I'm also part of a Utah-based startup incubator called Sandbox, where entrepreneurs work together to build software products from scratch.
 
 ## 🔭 What I'm Up To:
-- Building a facial and somatic recognition application in Python that utilizes a drone camera
-- Exploring software design patterns in Java and C#
+- Backend integration with Supabase
+- TensorFlow machine learning with neural networks
 
   Check out my [coding portfolio!](https://portfolio-hunter-knotts-projects.vercel.app/)
 
-## 💻 Tech Stack:
+## 💻 Current Tech Stack:
+![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)
+
+## 🏫 Education:
 ### DevOps:
 ![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code)
