@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 😄 About Me:
-I'm a Data Engineering Intern at Flex International, currently finishing up my Computer Science degree at Utah Valley University.
+I'm a Test Engineering Intern at Flex International, currently finishing up my Computer Science degree at Utah Valley University.
 I'm also part of a Utah-based startup incubator called Sandbox, where entrepreneurs work together to build software products from scratch.
 
 ## 🔭 What I'm Up To:
@@ -26,7 +26,7 @@ I'm also part of a Utah-based startup incubator called Sandbox, where entreprene
   Check out my [coding portfolio!](https://portfolio-hunter-knotts-projects.vercel.app/)
 
 ## 💻 Current Tech Stack:
-### Flex International (Data Engineering Intern):
+### Flex International (Test Engineering Intern):
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 ![Kotlin](https://img.shields.io/badge/Kotlin-e39f40?style=for-the-badge&logo=Kotlin)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
