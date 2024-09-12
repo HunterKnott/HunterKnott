@@ -35,9 +35,7 @@ I'm also part of a Utah-based startup incubator called Sandbox, where entreprene
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)
 
 ### Sandbox (Technical Co-Founder):
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code)
 ![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
-![Linear](https://img.shields.io/badge/Linear-1f1f26?style=for-the-badge&logo=Linear)
 ![Supabase](https://img.shields.io/badge/Supabase-2a2e2a?style=for-the-badge&logo=Supabase)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
 ![React](https://img.shields.io/badge/React-c3d0d4?style=for-the-badge&logo=React)
@@ -46,15 +44,9 @@ I'm also part of a Utah-based startup incubator called Sandbox, where entreprene
 ## 🏫 Education:
 ### DevOps:
 ![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=Visual%20Studio%20Code)
-![Jupyter](https://img.shields.io/badge/Jupyter-787d79?style=for-the-badge&logo=Jupyter)
-![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255?style=for-the-badge&logo=Eclipse%20IDE)
 ![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=Amazon%20AWS)
 ![Docker](https://img.shields.io/badge/Docker-%23c3d0de?style=for-the-badge&logo=Docker)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello)
-![Linear](https://img.shields.io/badge/Linear-1f1f26?style=for-the-badge&logo=Linear)
 
 ### General Programming:
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle)
