@@ -55,11 +55,11 @@ I'm also part of a Utah-based startup incubator called Sandbox, where entreprene
 ### General Programming:
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle)
 ![Kotlin](https://img.shields.io/badge/Kotlin-e39f40?style=for-the-badge&logo=Kotlin)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net)
 
 ### Backend Development:
-![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![DJango](https://img.shields.io/badge/DJango-092E20?style=for-the-badge&logo=DJango)
 ![Supabase](https://img.shields.io/badge/Supabase-2a2e2a?style=for-the-badge&logo=Supabase)
