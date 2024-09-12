@@ -27,9 +27,12 @@ I'm also part of a Utah-based startup incubator called Sandbox, where entreprene
 
 ## 💻 Current Tech Stack:
 ### Flex International (Data Engineering Intern):
-![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira)
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
+![Kotlin](https://img.shields.io/badge/Kotlin-e39f40?style=for-the-badge&logo=Kotlin)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
+![Android](https://img.shields.io/badge/Android-2a2e2a?style=for-the-badge&logo=android)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)
@@ -38,24 +41,26 @@ I'm also part of a Utah-based startup incubator called Sandbox, where entreprene
 ![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
 ![Supabase](https://img.shields.io/badge/Supabase-2a2e2a?style=for-the-badge&logo=Supabase)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
-![React](https://img.shields.io/badge/React-c3d0d4?style=for-the-badge&logo=React)
+![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
 
 ## 🏫 Education:
 ### DevOps:
 ![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
 ![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=%23FF9900)
 ![Docker](https://img.shields.io/badge/Docker-%23c3d0de?style=for-the-badge&logo=Docker)
 
 ### General Programming:
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle)
 ![Kotlin](https://img.shields.io/badge/Kotlin-e39f40?style=for-the-badge&logo=Kotlin)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B)
-![C#](https://img.shields.io/badge/C%23-%238f42d4?style=for-the-badge&logo=C%23)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net)
 
 ### Backend Development:
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![DJango](https://img.shields.io/badge/DJango-092E20?style=for-the-badge&logo=DJango)
 ![Supabase](https://img.shields.io/badge/Supabase-2a2e2a?style=for-the-badge&logo=Supabase)
 
@@ -82,7 +87,7 @@ I'm also part of a Utah-based startup incubator called Sandbox, where entreprene
 ![Tailwind](https://img.shields.io/badge/Tailwind-304145?style=for-the-badge&logo=Tailwind%20CSS)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
-![React](https://img.shields.io/badge/React-c3d0d4?style=for-the-badge&logo=React)
+![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
 ![Figma](https://img.shields.io/badge/Figma-9382ad?style=for-the-badge&logo=Figma)
 ![Wordpress](https://img.shields.io/badge/Wordpress-%2321759B?style=for-the-badge&logo=Wordpress)
