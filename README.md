@@ -45,7 +45,7 @@ I'm also part of a Utah-based startup incubator called Sandbox, where entreprene
 ### DevOps:
 ![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
 ![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
-![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E?style=for-the-badge&logo=Amazon%20AWS)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazongwebservices)
 ![Docker](https://img.shields.io/badge/Docker-%23c3d0de?style=for-the-badge&logo=Docker)
 
 ### General Programming:
