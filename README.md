@@ -45,7 +45,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)
 
-## 🏫 Education:
+## 🏫 Education - Utah Valley University (2019 - 2025):
 ### DevOps:
 ![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
 ![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
