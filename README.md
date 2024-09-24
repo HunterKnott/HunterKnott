@@ -16,17 +16,25 @@ Here are some ideas to get you started:
 -->
 
 # 😄 About Me:
-I'm a Test Engineering Intern at Flex International, currently finishing up my Computer Science degree at Utah Valley University.
-I'm also part of a Utah-based startup incubator called Sandbox, where entrepreneurs work together to build software products from scratch.
+I'm a software developer and technical entrepreneur, currently finishing my Computer Science degree at Utah Valley University.
 
 ## 🔭 What I'm Up To:
-- Backend integration with Supabase
-- TensorFlow machine learning with neural networks
+- Buildig a startup tech company
+- Taking Operating Systems in C
+- Learning French
 
   Check out my [coding portfolio!](https://portfolio-hunter-knotts-projects.vercel.app/)
 
-## 💻 Current Tech Stack:
-### Flex International (Test Engineering Intern):
+## 🏢 Work:
+### ClrDoc - Sandbox Technical Co-Founder (May 2024 - Current):
+![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
+![Supabase](https://img.shields.io/badge/Supabase-2a2e2a?style=for-the-badge&logo=Supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
+![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
+
+### Flex Ltd. - Test Engineering Intern (May 2024 - August 2024):
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 ![Kotlin](https://img.shields.io/badge/Kotlin-e39f40?style=for-the-badge&logo=Kotlin)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
@@ -36,14 +44,6 @@ I'm also part of a Utah-based startup incubator called Sandbox, where entreprene
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)
-
-### Sandbox (Technical Co-Founder):
-![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
-![Supabase](https://img.shields.io/badge/Supabase-2a2e2a?style=for-the-badge&logo=Supabase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
-![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
 
 ## 🏫 Education:
 ### DevOps:
