@@ -28,14 +28,14 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 
 ## 🏢 Work:
 ### Sandbox Technical Entrepreneur (May 2024 - Current):
-Octosh (Oct 2024 - Current):
+**Octosh (Oct 2024 - Current):**
 ![Extensions](https://img.shields.io/badge/Extensions-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=for-the-badge&logo=AWS%20Lambda&logoColor=FF9900)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
 
-ClrDoc (May - Oct 2024):
+**ClrDoc (May - Oct 2024):**
 ![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
 ![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
@@ -44,21 +44,20 @@ ClrDoc (May - Oct 2024):
 ![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
 
 ### Flex Ltd. - Test Engineering Intern (May 2024 - August 2024):
-Smart Racks:
+**Smart Racks:**
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana)
 ![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
 
-Server Tracker:
+**Server Tracker:**
 ![Kotlin](https://img.shields.io/badge/Kotlin-e39f40?style=for-the-badge&logo=Kotlin)
 ![Android](https://img.shields.io/badge/Android-2a2e2a?style=for-the-badge&logo=android)
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch)
 ![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira)
 
 ## 🏫 Education - Utah Valley University (2019 - 2025):
 ### DevOps:
