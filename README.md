@@ -43,7 +43,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
 ![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
 
-### Flex Ltd. - Test Engineering Intern (May 2024 - August 2024):
+### Flex Ltd. - Test Engineering Intern (May - August 2024):
 **Smart Racks:**
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)
