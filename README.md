@@ -33,15 +33,13 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=for-the-badge&logo=AWS%20Lambda&logoColor=FF9900)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
+![Supabase](https://img.shields.io/badge/Supabase-2a2e2a?style=for-the-badge&logo=Supabase)
 
 **ClrDoc (May - Oct 2024):**
 ![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
 ![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
 ![Supabase](https://img.shields.io/badge/Supabase-2a2e2a?style=for-the-badge&logo=Supabase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
-![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
 
 ### Flex Ltd. - Test Engineering Intern (May - August 2024):
 **Smart Racks:**
@@ -79,11 +77,13 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![DJango](https://img.shields.io/badge/DJango-092E20?style=for-the-badge&logo=DJango)
 ![Supabase](https://img.shields.io/badge/Supabase-2a2e2a?style=for-the-badge&logo=Supabase)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=for-the-badge&logo=AWS%20Lambda&logoColor=FF9900)
 
 ### Data Science:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-e0d5c5?style=for-the-badge&logo=TensorFlow)
+![Static Badge](https://img.shields.io/badge/Scikit%20Learn-4B8BBE?style=for-the-badge&logo=Scikit-Learn)
+![Scikit-Learn](https://img.shields.io/badge/TensorFlow-e0d5c5?style=for-the-badge&logo=TensorFlow)
 ![R](https://img.shields.io/badge/R-%232c507d?style=for-the-badge&logo=R)
 ![Matlab](https://img.shields.io/badge/Matlab-%23d9703f?style=for-the-badge&logo=matrix)
 
@@ -105,6 +105,13 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
 ![Figma](https://img.shields.io/badge/Figma-9382ad?style=for-the-badge&logo=Figma)
+
+### Other:
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi)
+![Unity](https://img.shields.io/badge/Unity-CCCCCC?style=for-the-badge&logo=Unity&logoColor=333333)
+![Extensions](https://img.shields.io/badge/Extensions-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=FFFFFF)
+![React Native](https://img.shields.io/badge/React%20Native-2a2e2a?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo)
 
 <!---
 https://www.youtube.com/watch?v=4cgpu9L2AE8&t=402s (Shields.io tutorial)
