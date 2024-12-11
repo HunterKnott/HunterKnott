@@ -21,8 +21,8 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ## 🔭 What I'm Up To:
 - Buildig an AI-based tech startup to help customer success teams write emails faster
 - Building a mobile app to help special education teachers gauge learning
-- Taking Operating Systems in C
-- Learning French
+- Taking Machine Learning with Keras and TensorFlow
+- Taking Data Visualization with Tableau
 
   Check out my [coding portfolio!](https://portfolio-hunter-knotts-projects.vercel.app/)
 
@@ -82,8 +82,9 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ### Data Science:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)
-![Static Badge](https://img.shields.io/badge/Scikit%20Learn-4B8BBE?style=for-the-badge&logo=Scikit-Learn)
-![Scikit-Learn](https://img.shields.io/badge/TensorFlow-e0d5c5?style=for-the-badge&logo=TensorFlow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-4B8BBE?style=for-the-badge&logo=Scikit-Learn)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-e0d5c5?style=for-the-badge&logo=TensorFlow)
 ![R](https://img.shields.io/badge/R-%232c507d?style=for-the-badge&logo=R)
 ![Matlab](https://img.shields.io/badge/Matlab-%23d9703f?style=for-the-badge&logo=matrix)
 
@@ -108,6 +109,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 
 ### Other:
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino)
 ![Unity](https://img.shields.io/badge/Unity-CCCCCC?style=for-the-badge&logo=Unity&logoColor=333333)
 ![Extensions](https://img.shields.io/badge/Extensions-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=FFFFFF)
 ![React Native](https://img.shields.io/badge/React%20Native-2a2e2a?style=for-the-badge&logo=react)
