@@ -80,11 +80,11 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=for-the-badge&logo=AWS%20Lambda&logoColor=FF9900)
 
 ### Data Science:
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-4B8BBE?style=for-the-badge&logo=Scikit-Learn)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-e0d5c5?style=for-the-badge&logo=TensorFlow)
+![Tableau](https://img.shields.io/badge/Tableau-264653?style=for-the-badge&logo=Tableau)
 ![R](https://img.shields.io/badge/R-%232c507d?style=for-the-badge&logo=R)
 ![Matlab](https://img.shields.io/badge/Matlab-%23d9703f?style=for-the-badge&logo=matrix)
 
