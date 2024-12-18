@@ -115,6 +115,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Extensions](https://img.shields.io/badge/Extensions-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=FFFFFF)
 ![React Native](https://img.shields.io/badge/React%20Native-2a2e2a?style=for-the-badge&logo=react)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=001E36)
 
 <!---
 https://www.youtube.com/watch?v=4cgpu9L2AE8&t=402s (Shields.io tutorial)
