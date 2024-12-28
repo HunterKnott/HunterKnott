@@ -43,7 +43,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 
 ### Flex Ltd. - Test Engineering Intern (May - August 2024):
 **Smart Racks:**
-![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana)
@@ -52,7 +52,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 **Server Tracker:**
 ![Kotlin](https://img.shields.io/badge/Kotlin-e39f40?style=for-the-badge&logo=Kotlin)
 ![Android](https://img.shields.io/badge/Android-2a2e2a?style=for-the-badge&logo=android)
-![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch)
 ![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
@@ -67,17 +67,28 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 
 ### General Programming:
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle)
-![Kotlin](https://img.shields.io/badge/Kotlin-e39f40?style=for-the-badge&logo=Kotlin)
-![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=%23FFFFFF)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net)
 
+### Frontend Development:
+![HTML](https://img.shields.io/badge/HTML-%23b8761f?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-%2362a7f0?style=for-the-badge&logo=CSS3)
+![Tailwind](https://img.shields.io/badge/Tailwind-304145?style=for-the-badge&logo=Tailwind%20CSS)
+![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
+![Figma](https://img.shields.io/badge/Figma-9382ad?style=for-the-badge&logo=Figma)
+
 ### Backend Development:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Express.js](https://img.shields.io/badge/Express.js-464D47?style=for-the-badge&logo=Express)
-![Supabase](https://img.shields.io/badge/Supabase-2a2e2a?style=for-the-badge&logo=Supabase)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=for-the-badge&logo=AWS%20Lambda&logoColor=FF9900)
+![MySQL](https://img.shields.io/badge/MySQL-%23cf9a55?style=for-the-badge&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
+![Supabase](https://img.shields.io/badge/Supabase-2a2e2a?style=for-the-badge&logo=Supabase)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
 
 ### Data Science:
@@ -88,25 +99,6 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Tableau](https://img.shields.io/badge/Tableau-264653?style=for-the-badge&logo=Tableau)
 ![R](https://img.shields.io/badge/R-%232c507d?style=for-the-badge&logo=R)
 ![Matlab](https://img.shields.io/badge/Matlab-%23d9703f?style=for-the-badge&logo=matrix)
-
-### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-%23cf9a55?style=for-the-badge&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/MongoDB-%232d274f?style=for-the-badge&logo=MongoDB)
-![Redis](https://img.shields.io/badge/Redis-%23d4a3a1?style=for-the-badge&logo=Redis)
-![Cassandra](https://img.shields.io/badge/Cassandra-%23b0d4d9?style=for-the-badge&logo=apache%20cassandra)
-![Neo4J](https://img.shields.io/badge/Neo4J-%23234a1b?style=for-the-badge&logo=Neo4J)
-![Hadoop](https://img.shields.io/badge/Hadoop-8c8927?style=for-the-badge&logo=Apache%20Hadoop)
-
-### Frontend Development:
-![HTML](https://img.shields.io/badge/HTML-%23b8761f?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-%2362a7f0?style=for-the-badge&logo=CSS3)
-![Tailwind](https://img.shields.io/badge/Tailwind-304145?style=for-the-badge&logo=Tailwind%20CSS)
-![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=JavaScript)
-![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
-![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
-![Figma](https://img.shields.io/badge/Figma-9382ad?style=for-the-badge&logo=Figma)
 
 ### Other:
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi)
