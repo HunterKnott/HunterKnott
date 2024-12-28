@@ -22,7 +22,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 - Buildig an AI-based tech startup to help customer success teams write emails faster
 - Building a mobile app to help special education teachers gauge learning
 - Taking Machine Learning with Keras and TensorFlow
-- Taking Data Visualization with Tableau
+- Taking Data Visualization with Python and Tableau
 
   Check out my [coding portfolio!](https://portfolio-hunter-knotts-projects.vercel.app/)
 
