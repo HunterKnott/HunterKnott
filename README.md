@@ -58,13 +58,6 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
 
 ## 🏫 Education - Utah Valley University (2019 - 2025):
-### DevOps:
-![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
-![Docker](https://img.shields.io/badge/Docker-%23c3d0de?style=for-the-badge&logo=Docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=%23FF9900)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
-
 ### General Programming:
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
@@ -72,6 +65,14 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=%23FFFFFF)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=C%2B%2B)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net)
+
+### DevOps:
+![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
+![Docker](https://img.shields.io/badge/Docker-%23c3d0de?style=for-the-badge&logo=Docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=%23FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
 
 ### Frontend Development:
 ![HTML](https://img.shields.io/badge/HTML-%23b8761f?style=for-the-badge&logo=HTML5)
