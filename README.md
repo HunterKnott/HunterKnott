@@ -28,6 +28,12 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 
 ## 🏢 Work:
 ### Sandbox Technical Entrepreneur (May 2024 - Current):
+**Lambda Learning (Dec 2024 - Current):**
+![React Native](https://img.shields.io/badge/React%20Native-2a2e2a?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)
+![Supabase](https://img.shields.io/badge/Supabase-2a2e2a?style=for-the-badge&logo=Supabase)
+
 **Octosh (Oct 2024 - Current):**
 ![Extensions](https://img.shields.io/badge/Extensions-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
@@ -59,7 +65,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 
 ## 🏫 Education - Utah Valley University (2019 - 2025):
 ### General Programming:
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=oracle)
+![Java](Java-red.svg)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
 ![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=%23FFFFFF)
@@ -71,7 +77,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Docker](https://img.shields.io/badge/Docker-%23c3d0de?style=for-the-badge&logo=Docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=%23FF9900)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
 
 ### Frontend Development:
@@ -97,7 +103,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-4B8BBE?style=for-the-badge&logo=Scikit-Learn)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-e0d5c5?style=for-the-badge&logo=TensorFlow)
-![Tableau](https://img.shields.io/badge/Tableau-264653?style=for-the-badge&logo=Tableau)
+![Tableau](Tableau-264653.svg)
 ![R](https://img.shields.io/badge/R-%232c507d?style=for-the-badge&logo=R)
 ![Matlab](https://img.shields.io/badge/Matlab-%23d9703f?style=for-the-badge&logo=matrix)
 
@@ -108,7 +114,6 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Extensions](https://img.shields.io/badge/Extensions-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=FFFFFF)
 ![React Native](https://img.shields.io/badge/React%20Native-2a2e2a?style=for-the-badge&logo=react)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=001E36)
 
 <!---
 https://www.youtube.com/watch?v=4cgpu9L2AE8&t=402s (Shields.io tutorial)
