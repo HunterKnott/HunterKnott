@@ -87,7 +87,6 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
-![Figma](https://img.shields.io/badge/Figma-9382ad?style=for-the-badge&logo=Figma)
 
 ### Backend Development:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
