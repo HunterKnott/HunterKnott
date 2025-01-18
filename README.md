@@ -32,20 +32,20 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![React Native](https://img.shields.io/badge/React%20Native-2a2e2a?style=for-the-badge&logo=react)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)
-![Supabase](https://img.shields.io/badge/Supabase-2a2e2a?style=for-the-badge&logo=Supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
 
 **Octosh (Oct 2024 - Current):**
-![Extensions](https://img.shields.io/badge/Extensions-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=for-the-badge&logo=AWS%20Lambda&logoColor=FF9900)
-![Supabase](https://img.shields.io/badge/Supabase-2a2e2a?style=for-the-badge&logo=Supabase)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
 
 **ClrDoc (May - Oct 2024):**
 ![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
 ![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
-![Supabase](https://img.shields.io/badge/Supabase-2a2e2a?style=for-the-badge&logo=Supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
 
 ### Flex Ltd. - Test Engineering Intern (May - August 2024):
 **Smart Racks:**
