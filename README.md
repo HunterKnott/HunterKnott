@@ -75,8 +75,9 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
 ![Docker](https://img.shields.io/badge/Docker-%23c3d0de?style=for-the-badge&logo=Docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=%23FF9900)
+![Azure](https://img.shields.io/badge/Azure-104581?style=for-the-badge&logo=iCloud&logoColor=FFFFFF)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
 
 ### Frontend Development:
