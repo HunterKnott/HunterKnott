@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm a software developer and technical entrepreneur, currently finishing my Computer Science degree at Utah Valley University.
 
 ## 🔭 What I'm Up To:
-- Buildig an AI-based tech startup to help customer success teams write emails faster
+- Building an AI-based tech startup to help customer success teams write emails faster
 - Building a mobile app to help special education teachers gauge learning
 - Taking Machine Learning with Keras and TensorFlow
 - Taking Data Visualization with Python and Tableau
