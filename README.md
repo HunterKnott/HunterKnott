@@ -35,8 +35,8 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 
 **Octosh (Oct 2024 - Current):**
 ![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=%23FF9900)
+![CI/CD](https://img.shields.io/badge/CI%2FCD%20-%20000000?style=for-the-badge&logo=GitHub%20Actions&logoColor=2088FF&color=222222)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
 
@@ -79,6 +79,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-%232b3745?style=for-the-badge&logo=git)
+![CI/CD](https://img.shields.io/badge/CI%2FCD%20-%20000000?style=for-the-badge&logo=GitHub%20Actions&logoColor=2088FF&color=222222)
 
 ### Frontend Development:
 ![HTML](https://img.shields.io/badge/HTML-%23b8761f?style=for-the-badge&logo=HTML5)
@@ -87,6 +88,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
+![Figma](https://img.shields.io/badge/Figma%20-%20444444?style=for-the-badge&logo=Figma&logoColor=F24E1E&color=444444)
 
 ### Backend Development:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
