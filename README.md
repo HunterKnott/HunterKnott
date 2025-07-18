@@ -88,6 +88,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
+![Django](https://img.shields.io/badge/Django%20-%20000000?style=for-the-badge&logo=Django&color=%23092E20)
 ![Figma](https://img.shields.io/badge/Figma%20-%20444444?style=for-the-badge&logo=Figma&logoColor=F24E1E&color=444444)
 
 ### Backend Development:
