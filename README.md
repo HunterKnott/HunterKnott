@@ -59,7 +59,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Java](Java-red.svg)
 ![Android](https://img.shields.io/badge/Android-2a2e2a?style=for-the-badge&logo=android)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch)
 ![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
 
@@ -93,7 +93,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Figma](https://img.shields.io/badge/Figma%20-%20444444?style=for-the-badge&logo=Figma&logoColor=F24E1E&color=444444)
 
 ### Backend Development:
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF)
 ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=for-the-badge&logo=Serverless&logoColor=FF9900)
 ![GCP Pub/Sub](https://img.shields.io/badge/GCP%20Pub%2FSub%20-%20%234C8BF5?style=for-the-badge&logo=Google%20Pub%2FSub&logoColor=%23FFFFFF)
 ![MySQL](https://img.shields.io/badge/MySQL-%23cf9a55?style=for-the-badge&logo=MySQL)
