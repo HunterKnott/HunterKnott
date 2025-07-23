@@ -35,7 +35,8 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 
 **Octosh (Oct 2024 - Current):**
 ![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=%23FF9900)
+![GCP Pub/Sub](https://img.shields.io/badge/GCP%20Pub%2FSub%20-%20%234C8BF5?style=for-the-badge&logo=Google%20Pub%2FSub&logoColor=%23FFFFFF)
+![AWS](https://img.shields.io/badge/AWS%20-%20%23232F3E?style=for-the-badge&logo=iCloud&logoColor=%23FF9800)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD%20-%20000000?style=for-the-badge&logo=GitHub%20Actions&logoColor=2088FF&color=222222)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
@@ -51,11 +52,11 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana)
+![Tableau](Tableau-264653.svg)
 ![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
 
 **Server Tracker:**
-![Kotlin](https://img.shields.io/badge/Kotlin-e39f40?style=for-the-badge&logo=Kotlin)
+![Java](Java-red.svg)
 ![Android](https://img.shields.io/badge/Android-2a2e2a?style=for-the-badge&logo=android)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
@@ -74,7 +75,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ### DevOps:
 ![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
 ![Docker](https://img.shields.io/badge/Docker-%23c3d0de?style=for-the-badge&logo=Docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=%23FF9900)
+![AWS](https://img.shields.io/badge/AWS%20-%20%23232F3E?style=for-the-badge&logo=iCloud&logoColor=%23FF9800)
 ![Azure](https://img.shields.io/badge/Azure-104581?style=for-the-badge&logo=iCloud&logoColor=FFFFFF)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFFFFF)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=Terraform&logoColor=FFFFFF)
@@ -83,7 +84,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 
 ### Frontend Development:
 ![HTML](https://img.shields.io/badge/HTML-%23b8761f?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-%2362a7f0?style=for-the-badge&logo=CSS3)
+![CSS](https://img.shields.io/badge/CSS-%2362a7f0?style=for-the-badge&logo=CSS)
 ![Tailwind](https://img.shields.io/badge/Tailwind-304145?style=for-the-badge&logo=Tailwind%20CSS)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
@@ -93,8 +94,8 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 
 ### Backend Development:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Express.js](https://img.shields.io/badge/Express.js-464D47?style=for-the-badge&logo=Express)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=for-the-badge&logo=AWS%20Lambda&logoColor=FF9900)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-232F3E?style=for-the-badge&logo=Serverless&logoColor=FF9900)
+![GCP Pub/Sub](https://img.shields.io/badge/GCP%20Pub%2FSub%20-%20%234C8BF5?style=for-the-badge&logo=Google%20Pub%2FSub&logoColor=%23FFFFFF)
 ![MySQL](https://img.shields.io/badge/MySQL-%23cf9a55?style=for-the-badge&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
 ![Supabase](https://img.shields.io/badge/Supabase-2a2e2a?style=for-the-badge&logo=Supabase)
@@ -105,7 +106,6 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-4B8BBE?style=for-the-badge&logo=Scikit-Learn)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-e0d5c5?style=for-the-badge&logo=TensorFlow)
-![Tableau](Tableau-264653.svg)
 ![R](https://img.shields.io/badge/R-%232c507d?style=for-the-badge&logo=R)
 ![Matlab](https://img.shields.io/badge/Matlab-%23d9703f?style=for-the-badge&logo=matrix)
 
