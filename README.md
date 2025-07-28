@@ -59,7 +59,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Java](Java-red.svg)
 ![Android](https://img.shields.io/badge/Android-2a2e2a?style=for-the-badge&logo=android)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![Django](https://img.shields.io/badge/Django%20-%20000000?style=for-the-badge&logo=Django&color=%23092E20)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch)
 ![Linux](https://img.shields.io/badge/Linux-%23171d24?style=for-the-badge&logo=Linux)
 
