@@ -28,9 +28,17 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 
 ## 🏢 Work:
 ### Bright Bridge Web - Part Time Web Developer (August 2025 - Current):
+**Legal App:**
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django%20-%20000000?style=for-the-badge&logo=Django&color=%23092E20)
-![Redis](https://img.shields.io/badge/Redis%20-%20FF4438?style=for-the-badge&logo=Redis&logoColor=%23FFFFFF&color=%23FF4438)
+![HTML](https://img.shields.io/badge/HTML-%23b8761f?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-%2362a7f0?style=for-the-badge&logo=CSS)
+![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=JavaScript)
+
+**Sales and Inventory App:**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django%20-%20000000?style=for-the-badge&logo=Django&color=%23092E20)
+![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
 
 ### Sandbox Technical Entrepreneur (May 2024 - Current):
 **Lambda Learning (Dec 2024 - Current):**
