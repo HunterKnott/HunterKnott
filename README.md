@@ -42,13 +42,13 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
 ![GitLab](https://img.shields.io/badge/GitLab%20-%20%23FC6D26?style=for-the-badge&logo=GitLab&color=%23FFFFFF)
 
-### Sandbox Technical Entrepreneur (May 2024 - Current):
-**Lambda Learning (Dec 2024 - Current):**
+### Sandbox Technical Entrepreneur (May 2024 - August 2025):
+**Lambda Learning (Dec 2024 - August 2025):**
 ![React Native](https://img.shields.io/badge/React%20Native-2a2e2a?style=for-the-badge&logo=react)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
 
-**Octosh (Oct 2024 - Current):**
+**Octosh (October 2024 - August 2025):**
 ![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
 ![GCP Pub/Sub](https://img.shields.io/badge/GCP%20Pub%2FSub%20-%20%234C8BF5?style=for-the-badge&logo=Google%20Pub%2FSub&logoColor=%23FFFFFF)
 ![AWS](https://img.shields.io/badge/AWS%20-%20%23232F3E?style=for-the-badge&logo=iCloud&logoColor=%23FF9800)
@@ -56,7 +56,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
 
-**ClrDoc (May - Oct 2024):**
+**ClrDoc (May - October 2024):**
 ![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
 ![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)
