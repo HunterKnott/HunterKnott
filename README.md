@@ -40,6 +40,7 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django%20-%20000000?style=for-the-badge&logo=Django&color=%23092E20)
 ![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite%20-%20%23646CFF?style=for-the-badge&logo=Vite&logoColor=%23FDD663)
 ![GitLab](https://img.shields.io/badge/GitLab%20-%20%23FC6D26?style=for-the-badge&logo=GitLab&color=%23FFFFFF)
 
 ### Sandbox Technical Entrepreneur (May 2024 - August 2025):
