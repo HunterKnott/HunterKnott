@@ -53,7 +53,6 @@ I'm a software developer and technical entrepreneur, currently finishing my Comp
 ![Node.js](https://img.shields.io/badge/Node.js-464d47?style=for-the-badge&logo=Node.js)
 ![GCP Pub/Sub](https://img.shields.io/badge/GCP%20Pub%2FSub%20-%20%234C8BF5?style=for-the-badge&logo=Google%20Pub%2FSub&logoColor=%23FFFFFF)
 ![AWS](https://img.shields.io/badge/AWS%20-%20%23232F3E?style=for-the-badge&logo=iCloud&logoColor=%23FF9800)
-![CI/CD](https://img.shields.io/badge/CI%2FCD%20-%20000000?style=for-the-badge&logo=GitHub%20Actions&logoColor=2088FF&color=222222)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23b9afc9?style=for-the-badge&logo=PostgreSQL)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
 
