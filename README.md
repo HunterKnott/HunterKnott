@@ -25,20 +25,26 @@ I'm a software and web developer. I recently finished my Computer Science degree
   Check out my [coding portfolio!](https://portfolio-hunter-knotts-projects.vercel.app/)
 
 ## 🏢 Work:
-### Bright Bridge Web - Part Time Web Developer (August 2025 - Current):
+### Integrated Engineering LLC - Software Engineer I (February 2026 - Current):
+**PowerLink App:**
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net)
+![React Native](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
+![iOS](https://img.shields.io/badge/iOS%20-%20%23000000?style=for-the-badge&logo=Apple&logoColor=%23FFFFFF)
+![Android](https://img.shields.io/badge/Android-2a2e2a?style=for-the-badge&logo=android)
+
+### Bright Bridge Web - Part Time Web Developer (August 2025 - February 2026):
 **Legal App:**
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django%20-%20000000?style=for-the-badge&logo=Django&color=%23092E20)
 ![HTML](https://img.shields.io/badge/HTML-%23b8761f?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS-%2362a7f0?style=for-the-badge&logo=CSS)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=JavaScript)
-![GitLab](https://img.shields.io/badge/GitLab%20-%20%23FC6D26?style=for-the-badge&logo=GitLab&color=%23FFFFFF)
 
 **Auctioning App:**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django%20-%20000000?style=for-the-badge&logo=Django&color=%23092E20)
 ![React](https://img.shields.io/badge/React-2a2e2a?style=for-the-badge&logo=react)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=JavaScript)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net)
-![GitLab](https://img.shields.io/badge/GitLab%20-%20%23FC6D26?style=for-the-badge&logo=GitLab&color=%23FFFFFF)
 
 ### Sandbox Technical Entrepreneur (May 2024 - August 2025):
 **Lambda Learning (Dec 2024 - August 2025):**
