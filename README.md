@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 # 😄 About Me:
 I'm a software and web developer. I recently finished my Computer Science degree at Utah Valley University.
 
-## 🔭 What I'm Up To:
-- https://hunterknott.github.io/church-text-stats/
-- https://knottypants.substack.com/
-
   Check out my [coding portfolio!](https://portfolio-hunter-knotts-projects.vercel.app/)
 
 ## 🏢 Work:
